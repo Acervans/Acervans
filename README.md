@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Acervans
-- 👀 I’m interested in software development and automated learning
-- 🌱 I’m currently learning Software Engineering, Software Systems & AI
+- 👀 I’m interested in software development and automated machine learning
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me: e-mail: javierwang01052001@gmail.com;
 
