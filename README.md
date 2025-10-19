@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Javier Wang
-- 👀 I’m interested in software development, data science and AI, specifically LLMs
-- 💞️ I’m looking to collaborate on software projects
+- 👀 I’m interested in software development, data science and AI
 - 📫 How to reach me: e-mail: javierwang01052001@gmail.com;
 
 <!---
